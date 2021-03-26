@@ -1,0 +1,88 @@
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Hanumaddham </title>
+    <link href="style2.css" rel="stylesheet">
+    <style>
+    </style>
+  </head>
+  <body>
+    <div class="header">
+      <div class="head-1">
+
+        <div class="head-1-1">
+          <img src="img/logo.png" alt="logo" style= "height:100%; width:100%">
+        </div>
+        <div class="head-1-2">
+          <a href="index.php">Hanumaddham</a>
+        </div>
+
+      </div>
+
+      <div class="head-2">
+
+        <div class="head-2-1" >
+          <a href="homepage.php"> Home</a>
+        </div>
+
+        <div class="head-2-2" >
+          <a href="gallery.php">  Gallery</a>
+        </div>
+
+        <div class="head-2-3" style="background-color: #01B5F9 !important; border-top-right-radius: 10px; border-top-left-radius: 10px;">
+          <a href="events.php">  Events</a>
+        </div>
+
+        <div class="head-2-4">
+          <a href="about.php">  About</a>
+        </div>
+
+        <div class="head-2-5">
+          <a href="contact.php">  Contact</a>
+        </div>
+
+      </div>
+    </div>
+
+    
+    <div class="footer">
+      <div class="card-heading-box">
+        <span class="card-heading" style="color: white;">
+            hamara pata
+        </span>
+      </div>
+
+      <div class="footer-card">
+      <div class="card-content-box" style="height:auto;">
+        <span class="card-content" style="color: white; font-size:15px;"> हनुमद धाम आपकी आवश्यकताओं को पूरा करने के लिए प्रतिबद्ध है। प्रश्न, टिप्पणी या विशेष अनुरोध? हम आपसे सुनना पसंद करते हैं, इसलिए हम तक पहुंचने में संकोच न करें।
+            <br><br>पता :-   हनुमद्धाम रोड, विकासनगर देहरादून (उत्तराखंड)
+            <br>पिन कोड  :- 248198
+            <br>hanumad.dham.vn@gmail.com
+            <br>6395206598 ( विष्णु महावर )
+            <br>
+            <br><b>www.hanumaddham.org</b>
+        </span>
+      </div>
+      <hr></hr>
+      <div class="social-media">
+        <div class="social-media-link-box">
+              <span class="logo"><a href="https://www.facebook.com"><img src="img/fb.png"></a></span>
+        </div>
+        <div class="social-media-link-box">
+          <span class="logo"><a href="https://www.facebook.com"><img src="img/youtube.png"></a></span>
+        </div>
+        <div class="social-media-link-box">
+          <span class="logo"><a href="https://www.facebook.com"><img src="img/linkedin.png"></a></span>
+        </div>
+        <div class="social-media-link-box">
+          <span class="logo"><a href="https://www.facebook.com"><img src="img/instagram.png"></a></span>
+        </div>
+      </div>
+    </div>
+
+    </div>
+
+
+  </body>
+</html>
