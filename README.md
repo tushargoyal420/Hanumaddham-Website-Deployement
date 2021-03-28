@@ -1,7 +1,7 @@
 # Hanumaddham-Website-Deployement
 Hanumaddham webiste code
 
-https://www.hostinger.in/
+https://files.000webhost.com/
 server name: hostinger
 username: HanumadDham
 password:  -------------
