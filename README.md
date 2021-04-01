@@ -2,7 +2,7 @@
 Hanumaddham webiste code
 
 https://files.000webhost.com/
-server name: hostinger
+server name: webhost
 username: HanumadDham
 password:  -------------
 link: https://hanumaddham.000webhostapp.com/
