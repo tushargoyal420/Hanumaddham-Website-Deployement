@@ -23,7 +23,7 @@
       <div class="head-2">
 
         <div class="head-2-1" style="background-color: #01B5F9 !important; border-top-right-radius: 10px; border-top-left-radius: 10px;">
-          <a href="homepage.php"> Home</a>
+          <a href="index.php"> Home</a>
         </div>
 
         <div class="head-2-2">
