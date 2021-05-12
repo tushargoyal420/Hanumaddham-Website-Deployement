@@ -74,7 +74,7 @@ body{
   width: 100%;
   }
   .middle1-image1{
-    background-image: url("img/main2.png");
+    background-image: url("../../img/main2.png");
     height: 100%;
     width: 100%;
     background-position: center;
@@ -94,7 +94,7 @@ body{
     float: left;
     }
       .middle2-1-image{
-        background-image: url("img/middle2-1.jpg");
+        background-image: url("../img/middle2-1.jpg");
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
@@ -352,7 +352,7 @@ body{
       height: calc(100vh - 100px);
       }
       .middle1-image1{
-      background-image: url("img/main600.png");
+      background-image: url("../img/main600.png");
       }
     .middle2{
       height: 490px;
@@ -426,7 +426,7 @@ body{
       height: calc(100vh - 100px);
       }
       .middle1-image1{
-        background-image: url("img/main.png");
+        background-image: url("../img/main.png");
       }
   .middle2{
       height: 490px;
@@ -480,7 +480,7 @@ body{
       height: calc(100vh - 100px);
       }
       .middle1-image1{
-        background-image: url("img/main.png");
+        background-image: url("../img/main.png");
       }
       .middle2{
               height: 410px;
@@ -566,7 +566,7 @@ body{
     height: calc(100vh - 100px);
     }
     .middle1-image1{
-      background-image: url("img/main.png");
+      background-image: url("../img/main.png");
       }
   .middle2{
         height: 410px;
